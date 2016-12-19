@@ -1,0 +1,8 @@
+﻿Problem description: Stored Procedure name dbo.BadlyNamed_Procedure does not match site wide standards
+FullID: SSDT.Analysis.Rules.StoredProcedureNamingRule
+Severity: Warning
+Model element: dbo.BadlyNamed_Procedure
+Script file: TestScript.sql
+Start line: 16
+Start column: 1
+========end of problem========
